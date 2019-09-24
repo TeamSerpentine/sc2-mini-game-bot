@@ -6,7 +6,7 @@ neural network is used to map observations to policies. The agent trains against
 scripted agents and is rewarded for increasing it's own score. By iterating 
 training cycles, the network maps inputs to outputs while maximizing the score.
 
-Also have a look at [the technical report](https://serpentineai.nl/publications) for a more in depth description of our approach.
+Also have a look at [the technical report](https://serpentineai.nl/wp-content/uploads/2019/09/SC_II_Agent_Danger_Noodle-1.pdf) for a more in depth description of our approach.
 
 ## The network
 
